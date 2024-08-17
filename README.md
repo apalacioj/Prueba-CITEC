@@ -19,7 +19,7 @@ Asegúrate de tener Python 3.11.12 o una versión superior instalada en tu siste
 
 3. Ejecuta el Notebook: abre el notebook en Jupyter o cualquier entorno de desarrollo compatible y ejecuta todas las celdas.
 
-    jupyter notebook nombre_del_notebook.ipynb
+    jupyter notebook CITEC_test.ipynb
 
 ## **Estructura**
 
