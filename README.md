@@ -10,8 +10,8 @@ Asegúrate de tener Python 3.11.12 o una versión superior instalada en tu siste
 
 1. Clona el repositorio
 
-git clone https://github.com/apalacioj/Prueba-CITEC.git
-cd Prueba-CITEC/
+    git clone https://github.com/apalacioj/Prueba-CITEC.git
+    cd Prueba-CITEC/
 
 2. Instala las Dependencias: ejecuta el siguiente comando para instalar todas las dependencias necesarias. Alternativamente, puedes instalar manualmente las librerías indicadas en la sección de requisitos.
 
